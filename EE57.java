@@ -3,7 +3,7 @@
   and non-math questions. All the answers are integers
  */
 import java.util.Scanner;
-public class GeneralQuiz {
+public class EE57 {
 
     // -------------------- Nested classes and interface -----------------------
     interface IntQuestion {
