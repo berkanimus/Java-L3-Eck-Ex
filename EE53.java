@@ -1,5 +1,5 @@
 
-public class DiceRollStats2 {
+public class EE53 {
 
    private int NUMBER_OF_EXPERIMENTS = 10000;
    private  PairOfDice dice = new PairOfDice();
